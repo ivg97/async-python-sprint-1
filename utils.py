@@ -20,6 +20,23 @@ CITIES = {
     "TORONTO": "https://code.s3.yandex.net/async-module/toronto-response.json"
 }
 
+EXCLUDE_CONDITIONS: list = ["rain",
+                            "moderate-rain",
+                            "heavy-rain",
+                            "continuous-heavy-rain",
+                            "showers",
+                            "wet-snow",
+                            "light-snow",
+                            "snow",
+                            "snow-showers",
+                            "hail",
+                            "thunderstorm",
+                            "thunderstorm-with-rain",
+                            "thunderstorm-with-hail",
+                            "drizzle"]
+
+FILE_NAME = 'output.json'
+
 MIN_MAJOR_PYTHON_VER = 3
 MIN_MINOR_PYTHON_VER = 9
 

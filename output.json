@@ -1,0 +1,722 @@
+[
+    {
+        "city": "PARIS",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 17.636,
+                "relevant_cond_hours": 9
+            },
+            {
+                "date": "2022-05-27",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 17.364,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-28",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 17.0,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-29",
+                "hours_start": null,
+                "hours_end": null,
+                "hours_count": 0,
+                "temp_avg": null,
+                "relevant_cond_hours": 0
+            },
+            {
+                "date": "2022-05-30",
+                "hours_start": null,
+                "hours_end": null,
+                "hours_count": 0,
+                "temp_avg": null,
+                "relevant_cond_hours": 0
+            }
+        ],
+        "avg_temperature": 17.333333333333332,
+        "avg_hours_without_precipitation": 6.2,
+        "rating": 8
+    },
+    {
+        "city": "MOSCOW",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 17.727,
+                "relevant_cond_hours": 7
+            },
+            {
+                "date": "2022-05-27",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 13.091,
+                "relevant_cond_hours": 0
+            },
+            {
+                "date": "2022-05-28",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 12.182,
+                "relevant_cond_hours": 0
+            },
+            {
+                "date": "2022-05-29",
+                "hours_start": 9,
+                "hours_end": 9,
+                "hours_count": 1,
+                "temp_avg": 12.0,
+                "relevant_cond_hours": 1
+            },
+            {
+                "date": "2022-05-30",
+                "hours_start": null,
+                "hours_end": null,
+                "hours_count": 0,
+                "temp_avg": null,
+                "relevant_cond_hours": 0
+            }
+        ],
+        "avg_temperature": 13.75,
+        "avg_hours_without_precipitation": 1.6,
+        "rating": 12
+    },
+    {
+        "city": "LONDON",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 17.364,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-27",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 16.273,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-28",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 14.636,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-29",
+                "hours_start": null,
+                "hours_end": null,
+                "hours_count": 0,
+                "temp_avg": null,
+                "relevant_cond_hours": 0
+            },
+            {
+                "date": "2022-05-30",
+                "hours_start": null,
+                "hours_end": null,
+                "hours_count": 0,
+                "temp_avg": null,
+                "relevant_cond_hours": 0
+            }
+        ],
+        "avg_temperature": 16.090999999999998,
+        "avg_hours_without_precipitation": 6.6,
+        "rating": 10
+    },
+    {
+        "city": "BERLIN",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 19.273,
+                "relevant_cond_hours": 9
+            },
+            {
+                "date": "2022-05-27",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 16.0,
+                "relevant_cond_hours": 6
+            },
+            {
+                "date": "2022-05-28",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 13.636,
+                "relevant_cond_hours": 0
+            },
+            {
+                "date": "2022-05-29",
+                "hours_start": null,
+                "hours_end": null,
+                "hours_count": 0,
+                "temp_avg": null,
+                "relevant_cond_hours": 0
+            },
+            {
+                "date": "2022-05-30",
+                "hours_start": null,
+                "hours_end": null,
+                "hours_count": 0,
+                "temp_avg": null,
+                "relevant_cond_hours": 0
+            }
+        ],
+        "avg_temperature": 16.302999999999997,
+        "avg_hours_without_precipitation": 3.0,
+        "rating": 9
+    },
+    {
+        "city": "BEIJING",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 31.818,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-27",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 32.727,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-28",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 33.818,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-29",
+                "hours_start": 9,
+                "hours_end": 14,
+                "hours_count": 6,
+                "temp_avg": 28.167,
+                "relevant_cond_hours": 6
+            },
+            {
+                "date": "2022-05-30",
+                "hours_start": null,
+                "hours_end": null,
+                "hours_count": 0,
+                "temp_avg": null,
+                "relevant_cond_hours": 0
+            }
+        ],
+        "avg_temperature": 31.6325,
+        "avg_hours_without_precipitation": 7.8,
+        "rating": 3
+    },
+    {
+        "city": "VOLGOGRAD",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 22.091,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-27",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 21.909,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-28",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 25.636,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-29",
+                "hours_start": 9,
+                "hours_end": 9,
+                "hours_count": 1,
+                "temp_avg": 25.0,
+                "relevant_cond_hours": 1
+            },
+            {
+                "date": "2022-05-30",
+                "hours_start": null,
+                "hours_end": null,
+                "hours_count": 0,
+                "temp_avg": null,
+                "relevant_cond_hours": 0
+            }
+        ],
+        "avg_temperature": 23.659,
+        "avg_hours_without_precipitation": 6.8,
+        "rating": 6
+    },
+    {
+        "city": "KAZAN",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 12.545,
+                "relevant_cond_hours": 6
+            },
+            {
+                "date": "2022-05-27",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 13.727,
+                "relevant_cond_hours": 0
+            },
+            {
+                "date": "2022-05-28",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 14.727,
+                "relevant_cond_hours": 3
+            },
+            {
+                "date": "2022-05-29",
+                "hours_start": 9,
+                "hours_end": 9,
+                "hours_count": 1,
+                "temp_avg": 14.0,
+                "relevant_cond_hours": 1
+            },
+            {
+                "date": "2022-05-30",
+                "hours_start": null,
+                "hours_end": null,
+                "hours_count": 0,
+                "temp_avg": null,
+                "relevant_cond_hours": 0
+            }
+        ],
+        "avg_temperature": 13.749749999999999,
+        "avg_hours_without_precipitation": 2.0,
+        "rating": 13
+    },
+    {
+        "city": "SPETERSBURG",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 12.182,
+                "relevant_cond_hours": 3
+            },
+            {
+                "date": "2022-05-27",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 11.818,
+                "relevant_cond_hours": 0
+            },
+            {
+                "date": "2022-05-28",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 11.636,
+                "relevant_cond_hours": 0
+            },
+            {
+                "date": "2022-05-29",
+                "hours_start": 9,
+                "hours_end": 9,
+                "hours_count": 1,
+                "temp_avg": 12.0,
+                "relevant_cond_hours": 1
+            },
+            {
+                "date": "2022-05-30",
+                "hours_start": null,
+                "hours_end": null,
+                "hours_count": 0,
+                "temp_avg": null,
+                "relevant_cond_hours": 0
+            }
+        ],
+        "avg_temperature": 11.908999999999999,
+        "avg_hours_without_precipitation": 0.8,
+        "rating": 15
+    },
+    {
+        "city": "ABUDHABI",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 34.818,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-27",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 34.455,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-28",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 33.818,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-29",
+                "hours_start": 9,
+                "hours_end": 10,
+                "hours_count": 2,
+                "temp_avg": 34.0,
+                "relevant_cond_hours": 2
+            },
+            {
+                "date": "2022-05-30",
+                "hours_start": null,
+                "hours_end": null,
+                "hours_count": 0,
+                "temp_avg": null,
+                "relevant_cond_hours": 0
+            }
+        ],
+        "avg_temperature": 34.27275,
+        "avg_hours_without_precipitation": 7.0,
+        "rating": 1
+    },
+    {
+        "city": "NOVOSIBIRSK",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 24.909,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-27",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 22.455,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-28",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 23.273,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-29",
+                "hours_start": 9,
+                "hours_end": 13,
+                "hours_count": 5,
+                "temp_avg": 22.2,
+                "relevant_cond_hours": 5
+            },
+            {
+                "date": "2022-05-30",
+                "hours_start": null,
+                "hours_end": null,
+                "hours_count": 0,
+                "temp_avg": null,
+                "relevant_cond_hours": 0
+            }
+        ],
+        "avg_temperature": 23.20925,
+        "avg_hours_without_precipitation": 7.6,
+        "rating": 7
+    },
+    {
+        "city": "KALININGRAD",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 15.364,
+                "relevant_cond_hours": 9
+            },
+            {
+                "date": "2022-05-27",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 12.818,
+                "relevant_cond_hours": 2
+            },
+            {
+                "date": "2022-05-28",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 11.636,
+                "relevant_cond_hours": 1
+            },
+            {
+                "date": "2022-05-29",
+                "hours_start": null,
+                "hours_end": null,
+                "hours_count": 0,
+                "temp_avg": null,
+                "relevant_cond_hours": 0
+            },
+            {
+                "date": "2022-05-30",
+                "hours_start": null,
+                "hours_end": null,
+                "hours_count": 0,
+                "temp_avg": null,
+                "relevant_cond_hours": 0
+            }
+        ],
+        "avg_temperature": 13.272666666666666,
+        "avg_hours_without_precipitation": 2.4,
+        "rating": 14
+    },
+    {
+        "city": "WARSZAWA",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 19.636,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-27",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 14.0,
+                "relevant_cond_hours": 3
+            },
+            {
+                "date": "2022-05-28",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 12.818,
+                "relevant_cond_hours": 0
+            },
+            {
+                "date": "2022-05-29",
+                "hours_start": null,
+                "hours_end": null,
+                "hours_count": 0,
+                "temp_avg": null,
+                "relevant_cond_hours": 0
+            },
+            {
+                "date": "2022-05-30",
+                "hours_start": null,
+                "hours_end": null,
+                "hours_count": 0,
+                "temp_avg": null,
+                "relevant_cond_hours": 0
+            }
+        ],
+        "avg_temperature": 15.484666666666664,
+        "avg_hours_without_precipitation": 2.8,
+        "rating": 11
+    },
+    {
+        "city": "ROMA",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 29.0,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-27",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 29.273,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-28",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 25.545,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-29",
+                "hours_start": null,
+                "hours_end": null,
+                "hours_count": 0,
+                "temp_avg": null,
+                "relevant_cond_hours": 0
+            },
+            {
+                "date": "2022-05-30",
+                "hours_start": null,
+                "hours_end": null,
+                "hours_count": 0,
+                "temp_avg": null,
+                "relevant_cond_hours": 0
+            }
+        ],
+        "avg_temperature": 27.939333333333334,
+        "avg_hours_without_precipitation": 6.6,
+        "rating": 4
+    },
+    {
+        "city": "BUCHAREST",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 27.455,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-27",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 26.091,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-28",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 27.818,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-29",
+                "hours_start": 9,
+                "hours_end": 9,
+                "hours_count": 1,
+                "temp_avg": 18.0,
+                "relevant_cond_hours": 1
+            },
+            {
+                "date": "2022-05-30",
+                "hours_start": null,
+                "hours_end": null,
+                "hours_count": 0,
+                "temp_avg": null,
+                "relevant_cond_hours": 0
+            }
+        ],
+        "avg_temperature": 24.841,
+        "avg_hours_without_precipitation": 6.8,
+        "rating": 5
+    },
+    {
+        "city": "CAIRO",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 32.545,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-27",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 33.182,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-28",
+                "hours_start": 9,
+                "hours_end": 19,
+                "hours_count": 11,
+                "temp_avg": 34.455,
+                "relevant_cond_hours": 11
+            },
+            {
+                "date": "2022-05-29",
+                "hours_start": null,
+                "hours_end": null,
+                "hours_count": 0,
+                "temp_avg": null,
+                "relevant_cond_hours": 0
+            },
+            {
+                "date": "2022-05-30",
+                "hours_start": null,
+                "hours_end": null,
+                "hours_count": 0,
+                "temp_avg": null,
+                "relevant_cond_hours": 0
+            }
+        ],
+        "avg_temperature": 33.394,
+        "avg_hours_without_precipitation": 6.6,
+        "rating": 2
+    }
+]
